@@ -2,7 +2,7 @@
 
 Hello myFriend
 
-![pic](https://m.qpic.cn/psb?/V13aDEq605KgSi/o63rhjJ2YcrldPDPiBO8dX6Io4trNQRszziW2nkAFZg!/b/dFQBAAAAAAAA&bo=YAlABmAJQAYRBzA!&rf=viewer_4)
+![index pic](https://raw.githubusercontent.com/chenkewen2007/chenkewen2007.github.io/master/img/h-1.jpg)
 
 
 
