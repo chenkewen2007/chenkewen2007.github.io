@@ -7,9 +7,7 @@ Hello myFriend
 
 
 ### 网页编辑人
-chenkewen.com.cn
+
 [kewen](http://chenkewen.com.cn)
 
-Email:chenkewen2007@foxamail.com
-
-
+Email: chenkewen2007@foxamail.com
