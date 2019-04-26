@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-Hello myFriend
 
-![index pic](https://raw.githubusercontent.com/chenkewen2007/chenkewen2007.github.io/master/img/h-1.jpg)
+![index pic](https://raw.githubusercontent.com/chenkewen2007/chenkewen2007.github.io/master/img/index-1.jpg)
 
 
 
